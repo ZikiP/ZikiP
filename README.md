@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 🤔I'm learing html js ts css vue react data-structure and algorithm
 
 [![ZikiP's github stats](https://github-readme-stats.vercel.app/api?username=ZikiP)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZikiP&layout=compact&hide=html,css,javascript)](https://github.com/anuraghazra/github-readme-stats)
