@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😁I'm a newly graduated college student
+- 😚I'm glad you could call me Ziki
+- 🥲I'm also a web developer
+- 😎My [blog](https://blog.ziki2333.top) is so bomb!!!
+- 🤔I'm learing html js ts css vue react data-structure and algorithm
+
+[![ZikiP's github stats](https://github-readme-stats.vercel.app/api?username=ZikiP)](https://github.com/anuraghazra/github-readme-stats)
